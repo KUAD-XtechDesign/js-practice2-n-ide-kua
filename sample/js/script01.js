@@ -1,5 +1,11 @@
 $(function(){
 
+    let txt1 = "おはようございます！";
+    let txt2 = "お元気ですか？";
+    let num1 = 20;
+    let num2 = 32;
+
+
 　 function sayHello(){
     $("content").text("こんにちは!");
    }
